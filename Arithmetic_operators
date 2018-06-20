@@ -1,0 +1,8 @@
+average_bill = (23+32+64)/3
+print(average_bill)
+
+
+print((9 * 7)+ (5 * 7))
+
+
+print((17*6) - ((9 * 7)+ (5 * 7)))
